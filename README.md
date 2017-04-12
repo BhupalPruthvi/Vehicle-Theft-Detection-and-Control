@@ -1,7 +1,7 @@
 # TITLE: Vehicle-Theft-Detection-and-Control
 Theft Mode and Drive Mode
 
-#Components 
+# Components 
 1. Arduino Microcontroller
 2. GSM Module
 3. GPS Module
